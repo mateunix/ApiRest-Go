@@ -1,0 +1,71 @@
+{
+    "users" : [
+        {
+            "ID" : 1,
+            "Name": "Maria",
+            "Type": "Reader",
+            "Age" : 30,
+            "Email": "maria@gmail.com",
+            "Phone": 999999999,
+            "City": "Moscow"
+        },
+        {
+            "ID" : 2,
+            "Name": "Elizaveta",
+            "Type": "Author",
+            "Age" : 50,
+            "Email": "elizaveta@gmail.com",
+            "Phone": 88545562,
+            "City": "Moscow"
+            
+        },
+        {
+            "ID" : 3,
+            "Name": "Yulia",
+            "Type": "Reader",
+            "Age" : 20,
+            "Email": "Yulia@gmail.com",
+            "Phone": 88904123,
+            "City": "Ikurtsk"
+            
+        },
+        {
+            "ID" : 4,
+            "Name": "Mikhail",
+            "Type": "Author",
+            "Age" : 27,
+            "Email": "mikhail@gmail.com",
+            "Phone": 78456746,
+            "City": "St.Petersburg"
+            
+        },
+        {
+            "ID" : 5,
+            "Name": "Liudmilla",
+            "Type": "Reader",
+            "Age" : 30,
+            "Email": "Liudmilla@gmail.com",
+            "Phone": 24346678,
+            "City": "Moscow"
+        },
+        {
+            "ID" : 6,
+            "Name": "Alina",
+            "Type": "Reader",
+            "Age" : 35,
+            "Email": "Alina@gmail.com",
+            "Phone": 92345675,
+            "City": "Yekaterinburg"
+            
+        },
+        {
+            "ID" : 7,
+            "Name": "Alexei",
+            "Type": "Author",
+            "Age" : 22,
+            "Email": "alexei@gmail.com",
+            "Phone": 89076589,
+            "City": "Kaliningrad"
+        }
+    ]
+}
